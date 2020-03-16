@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/245175101.svg)](https://zenodo.org/badge/latestdoi/245175101)
+
 <img src="https://github.com/IKNL/guidelines/blob/master/resources/logos/iknl_nl.png?raw=true" width=200 align="right">
 
 # Latent Class Analysis (LCA) for studying quality of life in colon cancer patients
